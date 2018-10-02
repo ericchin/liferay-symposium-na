@@ -1,5 +1,5 @@
 <%@ include file="/init.jsp" %>
 
 <p>
-	<b><liferay-ui:message key="sampleweb.caption"/></b>
+	<b><liferay-ui:message key="sampleweb.caption" /></b>
 </p>
